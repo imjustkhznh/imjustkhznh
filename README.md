@@ -63,7 +63,7 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/2imKhznh">
+  <a href="https://github.com/imjustkhznh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/2imKhznh" target="_blank">
