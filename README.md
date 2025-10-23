@@ -1,10 +1,10 @@
 <!-- 🌟 PROFILE README – by 2imKhznh -->
 <p align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=250&text=Hello,%20I'm%20Khznh%20👋&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=40" alt="wave banner"/>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Frontend+Developer;UI%2FUX+Lover;Always+Creating+Cool+Things+💡" alt="Typing SVG" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=48&duration=2500&pause=300&color=3B82F6&center=true&vCenter=true&width=450&lines=Hello,+I'm+Khznh+👋&repeat=false&delay=100" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -45,7 +45,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="2imKhznh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=2imKhznh&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="2imKhznh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2imKhznh&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 ---
