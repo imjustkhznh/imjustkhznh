@@ -1,9 +1,7 @@
 <!-- 🌟 PROFILE README – by 2imKhznh -->
 <p align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=250&text=Hey%20I'm%202imKhznh%20👋&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=40" alt="wave banner"/>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=250&text=Hello,%20I'm%20Khznh%20👋&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=40" alt="wave banner"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Frontend+Developer;UI%2FUX+Lover;Always+Creating+Cool+Things+💡" alt="Typing SVG" />
 </p>
