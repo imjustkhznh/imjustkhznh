@@ -1,4 +1,4 @@
-<!-- 🌟 PROFILE README – by 2imKhznh -->
+<!-- 🌟 PROFILE README – by imjustkhznh -->
 <p align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
  <p align="center">
@@ -42,8 +42,8 @@
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="2imKhznh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=2imKhznh&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="2imKhznh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2imKhznh&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="imjustkhznh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=imjustkhznh&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="imjustkhznh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjustkhznh&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
 </p>
 
@@ -52,7 +52,7 @@
 ### 🎧 Currently Vibing
 <p align="center">
   <a href="https://open.spotify.com/playlist/3rVA9WBIH7G3LVDBQAgfeG" target="_blank">
-    <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=3rVA9WBIH7G3LVDBQAgfeG&userName=2imKhznh&style=bar&color=000000" alt="Spotify playlist widget" width="300" />
+    <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=3rVA9WBIH7G3LVDBQAgfeG&userName=imjustkhznh&style=bar&color=000000" alt="Spotify playlist widget" width="300" />
   </a>
 </p>
 
@@ -66,7 +66,7 @@
   <a href="https://github.com/imjustkhznh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/2imKhznh" target="_blank">
+  <a href="https://www.facebook.com/imjustkhznh" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
